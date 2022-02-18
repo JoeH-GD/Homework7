@@ -17,7 +17,8 @@ namespace Doubler
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
            var Form2 = new Form2();
-            Application.Run(Form2);
+            var Form1 = new Doubler();
+            Application.Run(Form1);
         }
     }
 }

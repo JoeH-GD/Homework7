@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Doubler
-{
+{// Халдон. Игра "Угадай число". Минималистичная версия.
     public partial class Form2 : Form
     {
         private int userNumber;
